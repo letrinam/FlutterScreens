@@ -48,7 +48,7 @@ FlipLoader(
   animationType: "half_flip",
   shape: "circle",
   rotateIcon: false,
-),
+),j
 ```
 ___
 ###### I am working on more loaders. These loaders will also be updated. Thanks to [jakeleveroni](https://github.com/jakeleveroni) for parameterizing the FlipLoader. 
